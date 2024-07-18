@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 THUNDER MUSIC 」──
+    ──「 DRAGON MUSIC 」──
 </h2>
 
 <p align="center">
@@ -8,10 +8,10 @@
 
 <p align="center">
 <a href="https://github.com/WCGKING/stargazers"><img src="https://img.shields.io/https://github.com/WCGKING?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/BRANDED-NEW-MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Sumitmeena12/BRANDED-NEW-MUSIC/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/BRANDED-NEW-MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Sumitmeena12/BRANDED-NEW-MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/BRANDED-NEW-MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Sumitmeena12/BRANDED-NEW-MUSIC/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/BRANDED-NEW-MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/WCGKING/BRANDED-NEW-MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Sumitmeena12/BRANDED-NEW-MUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -61,7 +61,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/Friends_chatting_Group_Sigma"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DRAGONKIHAVELIHAIBOSDIKE"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
