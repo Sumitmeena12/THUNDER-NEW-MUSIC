@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "Thunder_X_Musicbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "VARSHUMUSIC_BOT")
 
 # Get Your repo
 REPO_LINK = getenv("REPO_LINK" , "https://te.legra.ph/file/4b225214f22ad8bbc8a86.mp4")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Thunder_X_Musicbot")
+BOT_NAME = getenv("BOT_NAME" , "VARSHUMUSIC_BOT")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -41,15 +41,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BRANDED-THUNDER/THUNDER-NEW-MUSIC",
+    "https://github.com/Sumitmeena12/THUNDER-NEW-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FAKE_SMILE_78")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FAKE_SMILE_78")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/dragondpworld")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DRAGONKIHAVELIHAIBOSDIKE")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
